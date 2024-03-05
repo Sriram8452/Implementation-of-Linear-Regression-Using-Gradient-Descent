@@ -61,6 +61,13 @@ print(f"Predicted value: {pre}")
 ## Data Model
 ![image](https://github.com/Sriram8452/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118708032/f084642f-d3da-404c-b06d-57eb5bd31e4b)
 
+## Scaled Value
+![image](https://github.com/Sriram8452/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118708032/34d75dc9-12ec-4060-b485-b67a993bbbd2)
+
+## Predicted Value
+![image](https://github.com/Sriram8452/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118708032/20d1651d-2dee-4da7-a864-e0305512bcfb)
+
+
 
 
 ## Result:
